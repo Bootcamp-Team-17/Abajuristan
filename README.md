@@ -71,11 +71,13 @@ Hikâye 2D,Oynanış 2.5 d Low Poly olarak düşündük,tatlı bir distopya evre
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. Projeyi 3 sprinte ayırdığımız için ilk sprint'in en azından 150 ile başlaması gerektiğine karar verdik.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'u ilk yapılacak story'lere göre sıraladık.
-- Oyun Kararları & Fikir kısmı için **90 puan**
+- Oyun Kararları & Fikir kısmı için **100 puan**
 - Karakter Tasarımları için **100 puan**
 - Level Design (Mekan Tasarımı) için **100 puan**
 - Oyun Mekanikleri & Development için **100 puan**
-- Ek Puan Kriterleri için **60 puan** uygun görüldü.
+- Ek Puan Kriterleri için **50 puan** uygun görüldü.
+
+Detaylı puanlama sistemimize Miro Board'dan ulaşabilirsiniz.
 
 Görevleri 3'e böldük. 
 - Miro Board'da kırmızı renkle işaretli görevler Takım Görevleri olarak adlandırıldı. Tüm takımın yapması gereken ortak görevler olarak belirlendi.
@@ -98,16 +100,18 @@ Görevleri 3'e böldük.
   ![Karakter Denemeleri (Emine Şen & Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/denemeler.jpg)
   ![Storyboard Girişi (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/storyboard-01.jpg)
   ![Storyboard Girişi (Ahmet Burul)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/abajur_mesh.png)
+  ![Storyboard Girişi (Ahmet Burul)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/abajur_mesh.png)
+
 
 - **Sprint Review**: 
 Alınan kararlar: 8 Mayıs 2022 akşamı yapılan genel toplantı beklenenden uzun sürdüğü için çalışma ekipleri halinde toplandıktan sonra oyun mekanikleri ve mekan tasarımları seçiminin ilgili ekipler tarafından belirlenmesine ve onaya sunulmasına karar verildi.
 Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
-- Herkes varolan oyunları inceleyip level ve seviye tasarımı hakkında fikir edinecek.
-- Ahmet ve Arda kamera açısı ve oyun mekaniklerine karar verecek.
-- Emine ve Irmak mekan tasarımlarını yapacak.
-- Ahmet ve Reyhan ana karakter tasarımını ve yan karakterleri & düşmanları tamamlayacak.
-- Emine, Reyhan ve Irmak tasarım, renkler vb. üzerine 12 Mayıs Perşembe günü toplantı yapacak.
-- Reyhan storyboard/hikaye çizimleri üzerine çalışacak.
+  - Herkes varolan oyunları inceleyip level ve seviye tasarımı hakkında fikir edinecek.
+  - Ahmet ve Arda kamera açısı ve oyun mekaniklerine karar verecek.
+  - Emine ve Irmak mekan tasarımlarını yapacak.
+  - Ahmet ve Reyhan ana karakter tasarımını ve yan karakterleri & düşmanları tamamlayacak.
+  - Emine, Reyhan ve Irmak tasarım, renkler vb. üzerine 12 Mayıs Perşembe günü toplantı yapacak.
+  - Reyhan storyboard/hikaye çizimleri üzerine çalışacak.
 
 - **Sprint Retrospective:**
   - Emine ile Irmak'ın mekan tasarımına birlikte yoğunlaşmalarına karar verildi.
