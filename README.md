@@ -72,21 +72,20 @@ Hikâye 2D,Oynanış 2.5 d Low Poly olarak düşündük,tatlı bir distopya evre
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. Projeyi 3 sprinte ayırdığımız için ilk sprint'in en azından 150 ile başlaması gerektiğine karar verdik.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'u ilk yapılacak story'lere göre sıraladık.
-- Oyun Kararları & Fikir kısmı için **100 puan**
-- Karakter Tasarımları için **100 puan**
-- Level Design (Mekan Tasarımı) için **100 puan**
-- Oyun Mekanikleri & Development için **100 puan**
-- Ek Puan Kriterleri için **50 puan** uygun görüldü.
+  - Oyun Kararları & Fikir kısmı için **100 puan**
+  - Karakter Tasarımları için **100 puan**
+  - Level Design (Mekan Tasarımı) için **100 puan**
+  - Oyun Mekanikleri & Development için **100 puan**
+  - Ek Puan Kriterleri için **50 puan** uygun görüldü.
 
 Detaylı puanlama sistemimize Miro Board'dan ulaşabilirsiniz.
 
 Görevleri 3'e böldük. 
-- Miro Board'da kırmızı renkle işaretli görevler Takım Görevleri olarak adlandırıldı. Tüm takımın yapması gereken ortak görevler olarak belirlendi.
-- Sarı renkle işaretli görevler Bireysel Görevleri ifade etmektedir.
-- Turkuaz renkteki görevler ise paylaşımlı(ortak) görevleri ifade etmektedir.
+  - Miro Board'da kırmızı renkle işaretli görevler Takım Görevleri olarak adlandırıldı. Tüm takımın yapması gereken ortak görevler olarak belirlendi.
+  - Sarı renkle işaretli görevler Bireysel Görevleri ifade etmektedir.
+  - Turkuaz renkteki görevler ise paylaşımlı(ortak) görevleri ifade etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarımızı Discord kanalımız üzerinden yürüttük. Böylece herkesin ne yaptığı gün içerisinde daha rahat takip edildi. 
-- Daily Scrum toplantısı örneğimiz ektedir: 
+- **Daily Scrum**: Daily Scrum toplantılarımızı Discord kanalımız üzerinden yürüttük. Böylece herkesin ne yaptığı gün içerisinde daha rahat takip edildi. Daily Scrum toplantısı örneğimiz ektedir: 
 
 ![Daily Scrum](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/daily_scrum.png)
 
@@ -104,8 +103,6 @@ Görevleri 3'e böldük.
   ![Story (Emine Şen)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/Emine_%C5%9Een_Story.jpg)
   ![Rapor (Arda Erdoğan)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/Arda_Rapor.png)
   ![Karakter Denemeler (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/denemeler.JPG)
-
-
 
 - **Sprint Review**: 
 Alınan kararlar: 8 Mayıs 2022 akşamı yapılan genel toplantı beklenenden uzun sürdüğü için çalışma ekipleri halinde toplandıktan sonra oyun mekanikleri ve mekan tasarımları seçiminin ilgili ekipler tarafından belirlenmesine ve onaya sunulmasına karar verildi.
