@@ -26,14 +26,14 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
 ## Ürün Özellikleri
 
-- Oyunumuz 3D Platformer tarzında olacak. Oyun türü 3D ancak kamera açısı sabet ve 2D platformer a benzer bir tür düşündük.
+- Oyunumuz 3D Platformer tarzında olacak. Oyun türü 3D ancak kamera açısı sabit ve 2D platformer a benzer bir tür düşündük.
 - Ürünün demo versiyonunun 3 level olmasını planlıyoruz.
 - 1920 x 1080 Singleplayer
-- 
+- Hikaye üzerinden devam eden oyun kurgusu.
 
 ## Hedef Kitle
 
-- Hedef kitlemiz roleplay 
+- 
 - 
 - 
 - 
@@ -41,17 +41,15 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
-
----
+[Miro Backlog Board](https://miro.com/app/board/uXjVO8O1kWc=/)
 
 # Sprint 1
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. Projeyi 3 sprinte ayırdığımız için ilk sprint'in en azından 150 ile başlaması gerektiğine karar verdik.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -67,21 +65,27 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
-- **Ürün Durumu**: Mekan Taslakları,Storyboard,Taslak Karakter Çizimi:
-  ![Mekan Taslakları (Irmak Ulu)] (https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/mekan_taslaklar%C4%B1.jpg)
+- **Ürün Durumu**: Mekan Taslakları,Storyboard,Taslak Karakter Çizimi ve Oyun için hazırlanan diğer tasarımlar:
+  ![Mekan Taslakları (Irmak Ulu)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/mekan_taslaklar%C4%B1.jpg)
   ![Storyboard Girişi (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/storyboard.png)
+  ![Karakter Denemeleri (Emine Şen & Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/denemeler.jpg)
+  ![Storyboard Girişi (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/storyboard-01.jpg)
+  ![Storyboard Girişi (Ahmet Burul)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/abajur_mesh.png)
 
 - **Sprint Review**: 
 Alınan kararlar: 8 Mayıs 2022 akşamı yapılan genel toplantı beklenenden uzun sürdüğü için çalışma ekipleri halinde toplandıktan sonra oyun mekanikleri ve mekan tasarımları seçiminin ilgili ekipler tarafından belirlenmesine ve onaya sunulmasına karar verildi.
 Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
-
+- Herkes varolan oyunları inceleyip level ve seviye tasarımı hakkında fikir edinecek.
+- Ahmet ve Arda kamera açısı ve oyun mekaniklerine karar verecek.
+- Emine ve Irmak mekan tasarımlarını yapacak.
+- Ahmet ve Reyhan ana karakter tasarımını ve yan karakterleri & düşmanları tamamlayacak.
+- Emine, Reyhan ve Irmak tasarım, renkler vb. üzerine 12 Mayıs Perşembe günü toplantı yapacak.
+- Reyhan storyboard/hikaye çizimleri üzerine çalışacak.
 
 - **Sprint Retrospective:**
   - Emine ile Irmak'ın mekan tasarımına birlikte yoğunlaşmalarına karar verildi.
-  - Karakterin Art Style ı için Ahmet ve Reyhan'ın birlikte çalışmasının süreci hızlandıracağını düşündüğümüzden artık birlikte çalışacaklar. Karakter modelini tamamladıktan sonra Ahmet Reyhan ile paylaşacak ve Reyhan da 
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Karakterin Art Style ı için Ahmet ve Reyhan'ın birlikte çalışmasının süreci hızlandıracağını düşündüğümüzden artık birlikte çalışacaklar. Karakter modelini tamamladıktan sonra Ahmet Reyhan ile paylaşacak ve Reyhan da çizim< tableti ile texture boyamasını yapacak.
+  - Tahmin puanların yetiştirilmesi için bu hafta daha yoğun şekilde çalışılması gerekiyor. Developer'lar ve tasarımcılar oyunda ne gibi sorunlar ortaya çıkabileceğini ve sunulan fikrin uygulanabilirliğini paylaştıktan sonra birlikte karar verilecek. 
 
 -**Diğer Notlar**:
 - N/A
