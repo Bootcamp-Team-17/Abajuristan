@@ -52,27 +52,38 @@ Hikâye 2D,Oynanış 2.5 d Low Poly olarak düşündük,tatlı bir distopya evre
 
 ## Hedef Kitle
 
-- 
+- Sosyal ve çevresel konularda bilinçli ve bilgi sahibi olurken eğlenmek isteyen kişiler
 - 
 - 
 - 
 - 
 
-## Product Backlog URL
+## Personalar
+
+- Osman - 24 yaşında - Stresli ve yorucu bir işi var. Eve gidince stres atmak için bilgisayar oyunları oynuyor.
+- Nisa - 16 yaşında - Liseye gidiyor,okuldan eve dönünce oyun oynamayı çok seviyor.
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVO8O1kWc=/)
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Sprint 1 Miro Board'daki Sprintler kısmında 25 Nisan-8 Mayıs tarihleri arasında belirtilmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. Projeyi 3 sprinte ayırdığımız için ilk sprint'in en azından 150 ile başlaması gerektiğine karar verdik.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'u ilk yapılacak story'lere göre sıraladık.
+- Oyun Kararları & Fikir kısmı için **90 puan**
+- Karakter Tasarımları için **100 puan**
+- Level Design (Mekan Tasarımı) için **100 puan**
+- Oyun Mekanikleri & Development için **100 puan**
+- Ek Puan Kriterleri için **60 puan** uygun görüldü.
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+Görevleri 3'e böldük. 
+- Miro Board'da kırmızı renkle işaretli görevler Takım Görevleri olarak adlandırıldı. Tüm takımın yapması gereken ortak görevler olarak belirlendi.
+- Sarı renkle işaretli görevler Bireysel Görevleri ifade etmektedir.
+- Turkuaz renkteki görevler ise paylaşımlı(ortak) görevleri ifade etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarımızı Discord kanalımız üzerinden yürüttük. Böylece herkesin ne yaptığı gün içerisinde daha rahat takip edildi. 
 - Daily Scrum toplantısı örneğimiz ektedir: 
