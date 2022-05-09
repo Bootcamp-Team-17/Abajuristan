@@ -22,7 +22,7 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
 ## Ürün Açıklaması
 
--------------------
+Enerji kaynaklarının tüketilmesiyle karanlık bir dünyada hapsolmuş bir abajur engelleri aşarak,kendi ışığının sönmesini engellerken dünyayı eski haline getirmek ister. İnsanlara yakalanmamaya çalışarak diğer abajurları kurtarır.
 
 ## Ürün Özellikleri
 
@@ -30,6 +30,25 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 - Ürünün demo versiyonunun 3 level olmasını planlıyoruz.
 - 1920 x 1080 Singleplayer
 - Hikaye üzerinden devam eden oyun kurgusu.
+
+## Mekanikler
+
+- Karakter W,A,S,D ile hareket eder.
+- Level boyunca ışığı azalır,yolda ilerledikçe etraftan ışık hüzmesi toplar.
+- Pili azaldığında pil noktalarından takviye yapar ve ışığını güçlendirir.
+- Görüldüğünde NPC’ler tarafından kovalanır.
+- Oyuncunun can barı vardır (Işık sayısı). Bir kez insana göründükten sonra ne kadar süre görünmezse karakterin başı o kadar az belaya girer. Aynı şekilde Pacman mantığında,bir itemi aınca kısa süreliğine etrafı dondurarak düşmanlardan kaçabilir.
+- Bir insan veya yaratık tarafından görüldüğünde ışığı kapatıp hareketsiz şekilde tehlikenin geçmesini bekleyebilir.
+
+## Oynanış
+Karakter oyunun başında kendisine verilen ışıklarla koşmaya başlar. Level sonuna kadar insanlara ve ışık avcısı yaratıklara görünmemeye çalışır. Ara sahnelerde bazı bulmacaları çözerek itemler toplar ve bu itemleri oyunun devamında hayatta kalmak için kullanır. Level sonuna kadar ışığını korumaya çalışır. Level sonunda ışığa ulaşır ve esaret altındaki abajur arkadaşlarından birisini kurtarır.
+
+## Müzik 
+Işığı azken ve düşmanlar yakındayken gerilim müziği + Işık bulduğunda daha rahatlatıcı,tatlı müzikler olabilir. Program olarak FL Studio tavsiye edildi.
+
+## Art Style: 
+Hikâye 2D,Oynanış 2.5 d Low Poly olarak düşündük,tatlı bir distopya evreni tasarlanabilir. Çünkü mekânda bir felaket sonrası havası olmalı. Karakter tatlı bir karakter olabilir.
+
 
 ## Hedef Kitle
 
@@ -61,9 +80,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Daily Scrum](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/daily_scrum.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 1](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog_1.jpg) 
+![Backlog 2](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog2.jpg) 
+![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog3.jpg)
 
 - **Ürün Durumu**: Mekan Taslakları,Storyboard,Taslak Karakter Çizimi ve Oyun için hazırlanan diğer tasarımlar:
   ![Mekan Taslakları (Irmak Ulu)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/mekan_taslaklar%C4%B1.jpg)
