@@ -52,6 +52,7 @@ Hikâye 2D,Oynanış 2.5 d Low Poly olarak düşündük,tatlı bir distopya evre
 
 ## Hedef Kitle
 
+- Sosyal ve çevresel konularda bilinçli ve bilgi sahibi olurken eğlenmek isteyen kişiler
 - Boş vakitlerinde PC üzerinden oyun oynamayı tercih eden kişiler
 - Hikaye bazlı oyunlara ilgi duyan kişiler
 
