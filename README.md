@@ -26,14 +26,14 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
 ## Ürün Özellikleri
 
-- 
-- 
-- 
+- Oyunumuz 3D Platformer tarzında olacak. Oyun türü 3D ancak kamera açısı sabet ve 2D platformer a benzer bir tür düşündük.
+- Ürünün demo versiyonunun 3 level olmasını planlıyoruz.
+- 1920 x 1080 Singleplayer
 - 
 
 ## Hedef Kitle
 
-- 
+- Hedef kitlemiz roleplay 
 - 
 - 
 - 
@@ -57,7 +57,8 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarımızı Discord kanalımız üzerinden yürüttük. Böylece herkesin ne yaptığı gün içerisinde daha rahat takip edildi. 
+- Daily Scrum toplantısı örneğimiz ektedir: EKLENECEK(https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
@@ -69,9 +70,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: 8 Mayıs 2022 akşamı yapılan genel toplantı beklenenden uzun sürdüğü için çalışma ekipleri halinde toplandıktan sonra oyun mekanikleri ve mekan tasarımları seçiminin ilgili ekipler tarafından belirlenmesine ve onaya sunulmasına karar verildi.
+Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
+
 
 - **Sprint Retrospective:**
+  - Emine ile Irmak'ın mekan tasarımına birlikte yoğunlaşmalarına karar verildi.
+  - Karakterin Art Style ı için Ahmet ve Reyhan'ın birlikte çalışmasının süreci hızlandıracağını düşündüğümüzden artık birlikte çalışacaklar. Karakter modelini tamamladıktan sonra Ahmet Reyhan ile paylaşacak ve Reyhan da 
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
