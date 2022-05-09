@@ -1,8 +1,8 @@
 # Abajuristan
 Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
-# *Abajur Takımıi**
-
+# Takım İsmi
+Abajur Takımı
 -------------------
 
 # Ürün İle İlgili Bilgiler
@@ -22,11 +22,11 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
 ## Ürün Açıklaması
 
-Enerji kaynaklarının tüketilmesiyle karanlık bir dünyada hapsolmuş bir abajur engelleri aşarak,kendi ışığının sönmesini engellerken dünyayı eski haline getirmek ister. İnsanlara yakalanmamaya çalışarak diğer abajurları kurtarır.
+Enerji kaynaklarının tüketilmesiyle karanlık bir dünyada hapsolmuş bir abajur engelleri aşarak, kendi ışığının sönmesini engellerken dünyayı eski haline getirmek ister. İnsanlara yakalanmamaya çalışarak diğer abajurları kurtarır.
 
 ## Ürün Özellikleri
 
-- Oyunumuz 3D Platformer tarzında olacak. Oyun türü 3D ancak kamera açısı sabit ve 2D platformer a benzer bir tür düşündük.
+- Oyunumuz 3D Platformer tarzında olacak. Oyun türü 3D ancak kamera açısı sabit ve 2D platformera benzer bir tür olacak.
 - Ürünün demo versiyonunun 3 level olmasını planlıyoruz.
 - 1920 x 1080 Singleplayer
 - Hikaye üzerinden devam eden oyun kurgusu.
@@ -37,7 +37,7 @@ Enerji kaynaklarının tüketilmesiyle karanlık bir dünyada hapsolmuş bir aba
 - Level boyunca ışığı azalır,yolda ilerledikçe etraftan ışık hüzmesi toplar.
 - Pili azaldığında pil noktalarından takviye yapar ve ışığını güçlendirir.
 - Görüldüğünde NPC’ler tarafından kovalanır.
-- Oyuncunun can barı vardır (Işık sayısı). Bir kez insana göründükten sonra ne kadar süre görünmezse karakterin başı o kadar az belaya girer. Aynı şekilde Pacman mantığında,bir itemi aınca kısa süreliğine etrafı dondurarak düşmanlardan kaçabilir.
+- Oyuncunun can barı vardır (Işık sayısı). Bir kez insana göründükten sonra ne kadar süre görünmezse karakterin başı o kadar az belaya girer. Aynı şekilde Pacman mantığında, bir itemi aınca kısa süreliğine etrafı dondurarak düşmanlardan kaçabilir.
 - Bir insan veya yaratık tarafından görüldüğünde ışığı kapatıp hareketsiz şekilde tehlikenin geçmesini bekleyebilir.
 
 ## Oynanış
