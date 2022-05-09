@@ -59,7 +59,7 @@ Hikâye 2D,Oynanış 2.5 d Low Poly olarak düşündük,tatlı bir distopya evre
 ## Personalar
 
 - Osman - 24 yaşında - Stresli ve yorucu bir işi var. Eve gidince stres atmak için bilgisayar oyunları oynuyor.
-- Nisa - 16 yaşında - Liseye gidiyor,okuldan eve dönünce oyun oynamayı çok seviyor.
+- Nisa - 16 yaşında - Liseye gidiyor,okuldan eve dönünce oyun oynamayı çok seviyor ve sosyal konularda bilinçlenmek isteyen bir genç
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVO8O1kWc=/)
 
