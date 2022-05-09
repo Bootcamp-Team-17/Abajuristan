@@ -102,8 +102,8 @@ Görevleri 3'e böldük.
   ![Story (Emine Şen)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/Emine_%C5%9Een_Story.jpg)
   ![Rapor (Arda Erdoğan)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/Arda_Rapor.png)
   ![Karakter Denemeler (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/denemeler.JPG)
-  ![Oyun Detayları (Emine & Reyhan)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/denemeler.JPG)
-  ![Oyun Detayları 2 (Emine & Reyhan)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/denemeler.JPG)
+  ![Oyun Detayları (Emine & Reyhan)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/1.png)
+  ![Oyun Detayları 2 (Emine & Reyhan)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/2.png)
 
 - **Sprint Review**: 
 Alınan kararlar: 8 Mayıs 2022 akşamı yapılan genel toplantı beklenenden uzun sürdüğü için çalışma ekipleri halinde toplandıktan sonra oyun mekanikleri ve mekan tasarımları seçiminin ilgili ekipler tarafından belirlenmesine ve onaya sunulmasına karar verildi.
