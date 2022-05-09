@@ -1,9 +1,9 @@
 # Abajuristan
 Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 
-# Takım İsmi
-Abajur Takımı
--------------------
+# Takım İsmi 
+
+- Abajur Takımı
 
 # Ürün İle İlgili Bilgiler
 
@@ -15,10 +15,9 @@ Abajur Takımı
 - Irmak Ulu: Team Member / 3D Artist
 - Reyhan Çakır: Team Member / 2D Artist & UI Designer
 
-
 ## Ürün İsmi
 
---Abajuristan--
+- Abajuristan
 
 ## Ürün Açıklaması
 
