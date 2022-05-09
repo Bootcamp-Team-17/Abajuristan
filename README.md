@@ -94,13 +94,16 @@ Görevleri 3'e böldük.
 ![Backlog 2](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog2.jpg) 
 ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog3.jpg)
 
-- **Ürün Durumu**: Mekan Taslakları,Storyboard,Taslak Karakter Çizimi ve Oyun için hazırlanan diğer tasarımlar:
+- **Ürün Durumu**: Mekan Taslakları,Storyboard,Taslak Karakter Çizimi,Raporlar ve Oyun için hazırlanan diğer tasarımlar:
   ![Mekan Taslakları (Irmak Ulu)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/mekan_taslaklar%C4%B1.jpg)
   ![Storyboard Girişi (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/storyboard.png)
   ![Karakter Denemeleri (Emine Şen & Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/denemeler.jpg)
   ![Storyboard Girişi (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/storyboard-01.jpg)
   ![Storyboard Girişi (Ahmet Burul)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/abajur_mesh.png)
-  ![Storyboard Girişi (Ahmet Burul)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/abajur_mesh.png)
+  ![Story (Emine Şen)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/Emine_%C5%9Een_Story.jpg)
+  ![Rapor (Arda Erdoğan)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/Arda_Rapor.png)
+  ![Karakter Denemeler (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/denemeler.JPG)
+
 
 
 - **Sprint Review**: 
