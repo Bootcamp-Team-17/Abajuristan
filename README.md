@@ -58,16 +58,18 @@ Oyun ve Uygulama Akademisi Bootcampi için hazırladığımız 3D oyun.
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarımızı Discord kanalımız üzerinden yürüttük. Böylece herkesin ne yaptığı gün içerisinde daha rahat takip edildi. 
-- Daily Scrum toplantısı örneğimiz ektedir: EKLENECEK(https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- Daily Scrum toplantısı örneğimiz ektedir: 
+
+![Daily Scrum](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/daily_scrum.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
 ![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+- **Ürün Durumu**: Mekan Taslakları,Storyboard,Taslak Karakter Çizimi:
+  ![Mekan Taslakları (Irmak Ulu)] (https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/mekan_taslaklar%C4%B1.jpg)
+  ![Storyboard Girişi (Reyhan Çakır)](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/storyboard.png)
 
 - **Sprint Review**: 
 Alınan kararlar: 8 Mayıs 2022 akşamı yapılan genel toplantı beklenenden uzun sürdüğü için çalışma ekipleri halinde toplandıktan sonra oyun mekanikleri ve mekan tasarımları seçiminin ilgili ekipler tarafından belirlenmesine ve onaya sunulmasına karar verildi.
