@@ -125,8 +125,40 @@ Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
 
 ---
 
-# Sprint 2
+# Sprint 2 ///////////////////////////////////////////////////////////////////////////////////////
 
+- **Sprint Notları**: Sprint 2 Miro Board'daki Sprintler kısmında 9 Mayıs - 23 Mayıs tarihleri arasında belirtilmiştir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. Projeyi 3 sprinte ayırdığımız için ikinci sprint için 150 puan tamamlanması gerektiğine karar verdik.
+
+- **Daily Scrum**: Daily Scrum toplantılarımızı Discord kanalımız üzerinden yürüttük. Böylece herkesin ne yaptığı gün içerisinde daha rahat takip edildi. Daily Scrum toplantısı örneğimiz ektedir: 
+
+![Daily Scrum](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/daily_scrum.png)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog_1.jpg) 
+![Backlog 2](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog2.jpg) 
+![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog3.jpg)
+
+- **Ürün Durumu**: Ürün geçen sprintle aşağı yukarı aynı durumda.yeterli ilerlemeyi kaydedemedik. Son toplantıda yeniden konuşuldu ve nasıl ilerlenmesi gerektiğine karar verildi.
+
+
+- **Sprint Review**: 
+Alınan kararlar: 8 Mayıs 2022 akşamı yapılan genel toplantı beklenenden uzun sürdüğü için çalışma ekipleri halinde toplandıktan sonra oyun mekanikleri ve mekan tasarımları seçiminin ilgili ekipler tarafından belirlenmesine ve onaya sunulmasına karar verildi.
+Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
+  - Herkes varolan oyunları inceleyip level ve seviye tasarımı hakkında fikir edinecek.
+  - Ahmet ve Arda kamera açısı ve oyun mekaniklerine karar verecek.
+  - Emine ve Irmak mekan tasarımlarını yapacak.
+  - Ahmet ve Reyhan ana karakter tasarımını ve yan karakterleri & düşmanları tamamlayacak.
+  - Emine, Reyhan ve Irmak tasarım, renkler vb. üzerine 12 Mayıs Perşembe günü toplantı yapacak.
+  - Reyhan storyboard/hikaye çizimleri üzerine çalışacak.
+
+- **Sprint Retrospective:**
+  - Emine ile Irmak'ın mekan tasarımına birlikte yoğunlaşmalarına karar verildi.
+  - Karakterin Art Style ı için Ahmet ve Reyhan'ın birlikte çalışmasının süreci hızlandıracağını düşündüğümüzden artık birlikte çalışacaklar. Karakter modelini tamamladıktan sonra Ahmet Reyhan ile paylaşacak ve Reyhan da çizim< tableti ile texture boyamasını yapacak.
+  - Tahmin puanların yetiştirilmesi için bu hafta daha yoğun şekilde çalışılması gerekiyor. Developer'lar ve tasarımcılar oyunda ne gibi sorunlar ortaya çıkabileceğini ve sunulan fikrin uygulanabilirliğini paylaştıktan sonra birlikte karar verilecek. 
 
 ---
 
