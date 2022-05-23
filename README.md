@@ -142,6 +142,8 @@ Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
 - ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim4.png) 
 - ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim5.png) 
 - ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim6.png) 
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim7.png) 
+
 
 - **Sprint Review**: 
 20 Mayıs 2022 akşamı yapılan toplantı sonrasında görev dağılımı tekrar yapıldı.
