@@ -133,27 +133,33 @@ Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. Projeyi 3 sprinte ayırdığımız için ikinci sprint için 150 puan tamamlanması gerektiğine karar verdik.
 
-- **Daily Scrum**: Daily Scrum toplantılarımızı Discord kanalımız üzerinden yürüttük. Böylece herkesin ne yaptığı gün içerisinde daha rahat takip edildi. Daily Scrum toplantısı örneğimiz ektedir: 
-
-![Daily Scrum](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/daily_scrum.png)
-
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog_1.jpg) 
-![Backlog 2](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog2.jpg) 
-![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/backlog3.jpg)
+![Backlog 1](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim1.png) 
+![Backlog 2](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim2.png) 
 
-- **Ürün Durumu**: Ürün geçen sprintle aşağı yukarı aynı durumda.yeterli ilerlemeyi kaydedemedik. Son toplantıda yeniden konuşuldu ve nasıl ilerlenmesi gerektiğine karar verildi.
+- **Ürün Durumu**: Örnek oyunlar paylaşıldı,eskiz çizimlerinde ilerleme kaydedildi,son toplantıda yeniden konuşuldu ve nasıl ilerlenmesi gerektiği tartışıldı,oyunla ilgili diğer fikirler paylaşıldı.
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim3.png)
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim4.png) 
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim5.png) 
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim6.png) 
 
 
 - **Sprint Review**: 
-Alınan kararlar: 8 Mayıs 2022 akşamı yapılan genel toplantı beklenenden uzun sürdüğü için çalışma ekipleri halinde toplandıktan sonra oyun mekanikleri ve mekan tasarımları seçiminin ilgili ekipler tarafından belirlenmesine ve onaya sunulmasına karar verildi.
-Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
-  - Herkes varolan oyunları inceleyip level ve seviye tasarımı hakkında fikir edinecek.
-  - Ahmet ve Arda kamera açısı ve oyun mekaniklerine karar verecek.
-  - Emine ve Irmak mekan tasarımlarını yapacak.
-  - Ahmet ve Reyhan ana karakter tasarımını ve yan karakterleri & düşmanları tamamlayacak.
-  - Emine, Reyhan ve Irmak tasarım, renkler vb. üzerine 12 Mayıs Perşembe günü toplantı yapacak.
-  - Reyhan storyboard/hikaye çizimleri üzerine çalışacak.
+Alınan kararlar: 20 Mayıs 2022 akşamı yapılan toplantı sonrasında görev dağılımı tekrar yapıldı.
+
+- 💡Harita Görünümü - Işıkla kontrol edilebilir olacak ekrana gelebilecek (Sınırlı Özellik)
+- 💡Puzzle Oyunu - Her sahnede
+- 💡2 Boyutlu Puzzlelar
+- 💡Abajurları Kurtama Fikrine Devam (Sahne olarak)
+- 💡Priz Noktaları - (Şarj Kuyruğu Karaktere eklenecek) - Enerjinin azalması ile gerginlik sağlanacak.
+
+- 🕯️Puzzle'lar düşünülecek @everyone
+- 🕯️Storyboard hazırlığı @Reyhan Çakır 
+- 🕯️Harita Çizimi @irmakulu 
+- 🕯️Mekan Eskizleri @Emine Şen
+- 🕯️Hareket eden karakter @Arda Erdoğan
+- 🕯️Karaktere 3D Şarj Kuyruğu ekleme @Ahmet Yasin Burul 
+- 🕯️ Yan karakterler + düşman olacak mı? Nasıl olacak?
 
 - **Sprint Retrospective:**
   - Emine ile Irmak'ın mekan tasarımına birlikte yoğunlaşmalarına karar verildi.
