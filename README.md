@@ -167,5 +167,26 @@ Alınan kararlar:
   - Her sahnede belli puzzle lar olmasına karar verildi.
   - Abajuru kurtarma fikrine devam edilecek. Karakter tasarımları üzerinde yeniden tartışılacak.
   - Son sprint genel hatlarıyla planlandı. Daha detaylı planlanması için herkese uygun bir vakitte yeniden toplantı yapılacak.
+  - Hikaye, senaryo netleşmeli, özetlenmeli. Fikirler sadeleşmeli.
+  - Tüm seviyeleri yapmak zorunda değiliz, bir veya iki seviye olabilir (demo gibi)
+  - Puzzle Oyunu (Bulmaca, dedektiflik, şifre,)
+  - Neden puzzleları çözüyoruz? İnsanların abajuru engellemek için yaptığı zorlukları ortadan kaldırmak için. (Ya da felaketten sonraki yıkımı onarıp dünyayı tekrar  aydınlatmak için.)
+  - Her puzzle çözüldüğünde/ level tamamlandığında felaketin sebebini anlatan minik hikayeler çıkacak.
+  - Puzzle örneği: mutfakta bir ocak var diyelim, ocağı doğru sırayla ve şekilde yakarsa leveli geçecek.
+  - Butona basıldığında ekran aydınlanır, büyük harita görünür, oyuncu haritayı ezberler (buton güçlendirici niteliğinde olabilir.)
+  - Bazı odalar tamamen karanlık olabilir.
+  - Aksiyon için ışık problemi olacak ışığı bitmeden puzzle’ı tamamlamaya çalışacak.
+  - Şarj noktaları olabilir, bunlara level geçildikçe ulaşılabilir.
+  - Gerginlik katmak için düşman gelebilir, karakteri atabilir ya da düşman hikaye gibi görünebilir. (sahneye 2D çizimi gelerek.)
+  - 2D minik oyunlar hikayeye renk katmak için kullanılabilir.
+  - Edison, Tesla bölümleri 
+  - Oyuncu ekstra kaynak alabilir (aydınlığı arttıracak güç kaynakları.) 
+  - Oyunun devamında kullanılacak ipucular verebilir.
+  - 3-6-9 mantığı için matematik problemi tarzı bir şey olabilir.
+  - Levellerin hepsi bittiğinde bir merdivenin yukarısında devamı gelecek yazabilir. (coming soon)
+  - Tasarımlar Hakkında
+  - Mekan distopik bir ev.
+  - Diğer abajurları bulurken mekanlar onların konseptinde tasarlanabilir. Örneğin doktorun abajuru doktorun odası, öğretmenin abajuru öğretmenin odası gibi.
+  - Kurtaracağımız abajurlar kafes içinde olabilir ya da abajurun lambası kırık olduğu için onu göremiyor olabiliriz. Kurtarınca aydınlanması için ona ampul takabilir.
 
 # Sprint 3
