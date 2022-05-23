@@ -125,7 +125,7 @@ Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
 
 ---
 
-# Sprint 2 ///////////////////////////////////////////////////////////////////////////////////////
+# Sprint 2
 
 - **Sprint Notları**: Sprint 2 Miro Board'daki Sprintler kısmında 9 Mayıs - 23 Mayıs tarihleri arasında belirtilmiştir.
 
@@ -143,9 +143,9 @@ Görevler kendi içimizde netleştirildikten sonra Miro Board'a eklenecek.
 - ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim5.png) 
 - ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim6.png) 
 
-
 - **Sprint Review**: 
-Alınan kararlar: 20 Mayıs 2022 akşamı yapılan toplantı sonrasında görev dağılımı tekrar yapıldı.
+20 Mayıs 2022 akşamı yapılan toplantı sonrasında görev dağılımı tekrar yapıldı.
+Alınan kararlar: 
 
 - 💡Harita Görünümü - Işıkla kontrol edilebilir olacak ekrana gelebilecek (Sınırlı Özellik)
 - 💡Puzzle Oyunu - Her sahnede
@@ -162,10 +162,8 @@ Alınan kararlar: 20 Mayıs 2022 akşamı yapılan toplantı sonrasında görev 
 - 🕯️ Yan karakterler + düşman olacak mı? Nasıl olacak?
 
 - **Sprint Retrospective:**
-  - Emine ile Irmak'ın mekan tasarımına birlikte yoğunlaşmalarına karar verildi.
-  - Karakterin Art Style ı için Ahmet ve Reyhan'ın birlikte çalışmasının süreci hızlandıracağını düşündüğümüzden artık birlikte çalışacaklar. Karakter modelini tamamladıktan sonra Ahmet Reyhan ile paylaşacak ve Reyhan da çizim< tableti ile texture boyamasını yapacak.
-  - Tahmin puanların yetiştirilmesi için bu hafta daha yoğun şekilde çalışılması gerekiyor. Developer'lar ve tasarımcılar oyunda ne gibi sorunlar ortaya çıkabileceğini ve sunulan fikrin uygulanabilirliğini paylaştıktan sonra birlikte karar verilecek. 
-
----
+  - Her sahnede belli puzzle lar olmasına karar verildi.
+  - Abajuru kurtarma fikrine devam edilecek. Karakter tasarımları üzerinde yeniden tartışılacak.
+  - Son sprint genel hatlarıyla planlandı. Daha detaylı planlanması için herkese uygun bir vakitte yeniden toplantı yapılacak.
 
 # Sprint 3
