@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pickable
+  - Tabak
+  - Bardak
+  - Caydanlik
+  - Tepsi
   layers:
   - Default
   - TransparentFX

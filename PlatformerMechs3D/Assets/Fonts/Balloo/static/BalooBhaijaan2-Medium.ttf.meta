@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 7d00844f3de2b35448d5aa32cb75f736
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Baloo Bhaijaan 2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fa531d69909d6bd4d9b246ae1a88c51a, type: 3}
+  - {fileID: 12800000, guid: 988422fcd8c02ea4e9b8c8902cc19de6, type: 3}
+  - {fileID: 12800000, guid: ebe05aa0635b6bf42b8d01cd82224de1, type: 3}
+  - {fileID: 12800000, guid: fac1e5073d5fba54f82c98352432e9c4, type: 3}
+  - {fileID: 12800000, guid: b394c1e4bf1c75e4e8bc033cd75726d6, type: 3}
+  - {fileID: 12800000, guid: 498d39540a4ebb24d9ab8c3cac6132fc, type: 3}
+  - {fileID: 12800000, guid: b607acfdfa9668a439b03392d6200c9c, type: 3}
+  - {fileID: 12800000, guid: e930a3f803de09c4faa0e9bf5bc4fd96, type: 3}
+  - {fileID: 12800000, guid: 000fb7b816c5c06469d7028cff62e09d, type: 3}
+  - {fileID: 12800000, guid: bf9088a867cc80946bcb91611323ba1e, type: 3}
+  - {fileID: 12800000, guid: e1676367f194cf4479afd735916c4977, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

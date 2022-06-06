@@ -33,7 +33,7 @@ public class MovementController : MonoBehaviour
 
     [SerializeField] float gravity = -9.8f;
     [SerializeField] float groundedGravity = -.05f;
-    [SerializeField] float maxJumpHeight = 2.0f;
+    [SerializeField] float maxJumpHeight = 2f;
     [SerializeField] float maxJumpTime = 0.75f;
     [SerializeField] float rotationFactorPerFrame = 15.0f;
     [SerializeField] float characterSpeed;
@@ -103,8 +103,8 @@ public class MovementController : MonoBehaviour
     void onMovementInput (InputAction.CallbackContext context)
     {
             _currentMovementInput = context.ReadValue<Vector2>();
-            _currentMovement.x = _currentMovementInput.x;
-            _currentMovement.z = _currentMovementInput.y;
+            _currentMovement.x = _currentMovementInput.x * characterSpeed;
+            _currentMovement.z = _currentMovementInput.y * characterSpeed;
             _currentRunMovement.x = _currentMovementInput.x * runSpeed;
             _currentRunMovement.z = _currentMovementInput.y * runSpeed;
             //currentMovement.x = _isRunPressed ? _currentMovementInput.x : _currentMovementInput.x * runSpeed;
@@ -117,10 +117,10 @@ public class MovementController : MonoBehaviour
         float timeToApex = maxJumpTime / 2;
         gravity = (-2 * maxJumpHeight) / Mathf.Pow(timeToApex, 2);
         _initialJumpVelocity = (2 * maxJumpHeight) / timeToApex;
-        float secondJumpGravity = (-2 * (maxJumpHeight + 2)) / Mathf.Pow((timeToApex * 1.5f), 2);
+        float secondJumpGravity = (-2 * (maxJumpHeight + 2f)) / Mathf.Pow((timeToApex * 1.5f), 2);
         float secondJumpInitialVelocity = (2 * (maxJumpHeight + 2) / (timeToApex * 1.25f));
-        float thirdJumpGravity = (-2 * (maxJumpHeight + 4)) / Mathf.Pow((timeToApex * 1.5f), 2);
-        float thirdJumpInitialVelocity = (2 * (maxJumpHeight + 4) / (timeToApex * 1.5f));
+        float thirdJumpGravity = (-2 * (maxJumpHeight + 4f)) / Mathf.Pow((timeToApex * 1.5f), 2);
+        float thirdJumpInitialVelocity = (2 * (maxJumpHeight + 4f) / (timeToApex * 1.5f));
 
         initialJumpVelocities.Add(1, _initialJumpVelocity);
         initialJumpVelocities.Add(2, secondJumpInitialVelocity);
