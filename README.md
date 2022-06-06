@@ -201,7 +201,8 @@ Alınan kararlar:
 ![Backlog 1](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/img1.png) 
 ![Backlog 2](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/2.png) 
 
-- **Ürün Durumu**: Çizimler tamamlandı,eskiz çizimlerinde ilerleme kaydedildi,son toplantıda yeniden konuşuldu ve nasıl ilerlenmesi gerektiği tartışıldı,oyunla ilgili diğer fikirler paylaşıldı.
+- **Ürün Durumu**: Karakter scriptleri hazırlandı. Zıplayan,koşan ve diğer temel hareketleri yapabilen bir karakterimiz var. Animasyonların abajur modeline entegre edilmesi için çalışmalarımız sürüyor. Karakter riglemesi tamamlandı,arayüz tasarımları tamamlandı,3 mekandan ikisinin modellemesi tamamlandı. Oyunumuzu teslim tarihi için elimizden geldiğince hızlı şekilde hazırlıyoruz. 
+
 ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/seviye_kazandgnda.png)
 ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/seviye_kaybettiginde.png) 
 ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/Untitled-2.jpg) 
