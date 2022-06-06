@@ -190,3 +190,65 @@ Alınan kararlar:
   - Kurtaracağımız abajurlar kafes içinde olabilir ya da abajurun lambası kırık olduğu için onu göremiyor olabiliriz. Kurtarınca aydınlanması için ona ampul takabilir.
 
 # Sprint 3
+
+- **Sprint Notları**: Sprint 3 Miro Board'daki Sprintler kısmında 23 Mayıs - 5 Haziran tarihleri arasında belirtilmiştir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. Projeyi 3 sprinte ayırdığımız için ikinci sprint için 150 puan tamamlanması gerektiğine karar verdik.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim1.png) 
+![Backlog 2](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim2.png) 
+
+- **Ürün Durumu**: Örnek oyunlar paylaşıldı,eskiz çizimlerinde ilerleme kaydedildi,son toplantıda yeniden konuşuldu ve nasıl ilerlenmesi gerektiği tartışıldı,oyunla ilgili diğer fikirler paylaşıldı.
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim3.png)
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim4.png) 
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim5.png) 
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim6.png) 
+- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/images/resim7.jpeg) 
+
+
+- **Sprint Review**: 
+20 Mayıs 2022 akşamı yapılan toplantı sonrasında görev dağılımı tekrar yapıldı.
+Alınan kararlar: 
+
+- 💡Harita Görünümü - Işıkla kontrol edilebilir olacak ekrana gelebilecek (Sınırlı Özellik)
+- 💡Puzzle Oyunu - Her sahnede
+- 💡2 Boyutlu Puzzlelar
+- 💡Abajurları Kurtama Fikrine Devam (Sahne olarak)
+- 💡Priz Noktaları - (Şarj Kuyruğu Karaktere eklenecek) - Enerjinin azalması ile gerginlik sağlanacak.
+
+- 🕯️Puzzle'lar düşünülecek @everyone
+- 🕯️Storyboard hazırlığı @Reyhan Çakır 
+- 🕯️Harita Çizimi @irmakulu 
+- 🕯️Mekan Eskizleri @Emine Şen
+- 🕯️Hareket eden karakter @Arda Erdoğan
+- 🕯️Karaktere 3D Şarj Kuyruğu ekleme @Ahmet Yasin Burul 
+- 🕯️ Yan karakterler + düşman olacak mı? Nasıl olacak?
+
+- **Sprint Retrospective:**
+  - Her sahnede belli puzzle lar olmasına karar verildi.
+  - Abajuru kurtarma fikrine devam edilecek. Karakter tasarımları üzerinde yeniden tartışılacak.
+  - Son sprint genel hatlarıyla planlandı. Daha detaylı planlanması için herkese uygun bir vakitte yeniden toplantı yapılacak.
+  - Hikaye, senaryo netleşmeli, özetlenmeli. Fikirler sadeleşmeli.
+  - Tüm seviyeleri yapmak zorunda değiliz, bir veya iki seviye olabilir (demo gibi)
+  - Puzzle Oyunu (Bulmaca, dedektiflik, şifre,)
+  - Neden puzzleları çözüyoruz? İnsanların abajuru engellemek için yaptığı zorlukları ortadan kaldırmak için. (Ya da felaketten sonraki yıkımı onarıp dünyayı tekrar  aydınlatmak için.)
+  - Her puzzle çözüldüğünde/ level tamamlandığında felaketin sebebini anlatan minik hikayeler çıkacak.
+  - Puzzle örneği: mutfakta bir ocak var diyelim, ocağı doğru sırayla ve şekilde yakarsa leveli geçecek.
+  - Butona basıldığında ekran aydınlanır, büyük harita görünür, oyuncu haritayı ezberler (buton güçlendirici niteliğinde olabilir.)
+  - Bazı odalar tamamen karanlık olabilir.
+  - Aksiyon için ışık problemi olacak ışığı bitmeden puzzle’ı tamamlamaya çalışacak.
+  - Şarj noktaları olabilir, bunlara level geçildikçe ulaşılabilir.
+  - Gerginlik katmak için düşman gelebilir, karakteri atabilir ya da düşman hikaye gibi görünebilir. (sahneye 2D çizimi gelerek.)
+  - 2D minik oyunlar hikayeye renk katmak için kullanılabilir.
+  - Edison, Tesla bölümleri 
+  - Oyuncu ekstra kaynak alabilir (aydınlığı arttıracak güç kaynakları.) 
+  - Oyunun devamında kullanılacak ipucular verebilir.
+  - 3-6-9 mantığı için matematik problemi tarzı bir şey olabilir.
+  - Levellerin hepsi bittiğinde bir merdivenin yukarısında devamı gelecek yazabilir. (coming soon)
+  - Tasarımlar Hakkında
+  - Mekan distopik bir ev.
+  - Diğer abajurları bulurken mekanlar onların konseptinde tasarlanabilir. Örneğin doktorun abajuru doktorun odası, öğretmenin abajuru öğretmenin odası gibi.
+  - Kurtaracağımız abajurlar kafes içinde olabilir ya da abajurun lambası kırık olduğu için onu göremiyor olabiliriz. Kurtarınca aydınlanması için ona ampul takabilir.
