@@ -202,22 +202,22 @@ Alınan kararlar:
 ![Backlog 2](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/2.png) 
 
 - **Ürün Durumu**: Çizimler tamamlandı,eskiz çizimlerinde ilerleme kaydedildi,son toplantıda yeniden konuşuldu ve nasıl ilerlenmesi gerektiği tartışıldı,oyunla ilgili diğer fikirler paylaşıldı.
-- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/seviye_kazandgnda.png)
-- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/seviye_kaybettiginde.png) 
-- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/Untitled-2.jpg) 
-- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/3.png) 
-- ![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/5.png) 
+![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/seviye_kazandgnda.png)
+![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/seviye_kaybettiginde.png) 
+![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/Untitled-2.jpg) 
+![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/3.png) 
+![Backlog 3](https://github.com/Bootcamp-Team-17/Abajuristan/blob/main/sprint3/5.png) 
 
 - **Sprint Review**: 
 TOPLU TOPLANTI | DISCORD SESLİ | 2 Haziran 2022, Perşembe 21.15-22.30 | Sprint 3 için Oyun Tamamlama | @everyone (@irmakulu Hariç)
-💡4 Mekan Modellemesi gerçekleştirilecek - Giriş Holü, Mutfak, Koridor, Kütüphane
-💡Kamera Açısı @Morlock tarafından yapılan açıda kalacak (Koridorlarda koşarken, ve etkileşim kurarken değişebilir)
-💡Oyun Başlangıcında 10-15 sn olmak üzere hikaye videosu @Reyhan Çakır tarafından yapılacak. 
-💡Oyun Başladığında ilk mekan olan giriş holünde tablolar halinde hikayenin devamı sergilenecek şekilde tasarım yapılacak.
-💡@Ahmet Yasin Burul 'in yaptığı 3D Ana Karakter Riglemesi gerçekleştirilip @Morlock ile denemeler yapılacak.
-💡@Ahmet Yasin Burul Yan Karakterler için 3D Modelleme tamamlanacak.
-💡@Reyhan Çakır UI için çalışmalar yapılacak. Giriş Ekranının arkasında 2D Görüntü hazırlanacak.
-💡@Emine Şen Mekan Tasarımlarına başlanacak. (En az 1 tanesi tamamlanacak.)
+- 💡4 Mekan Modellemesi gerçekleştirilecek - Giriş Holü, Mutfak, Koridor, Kütüphane
+- 💡Kamera Açısı @Morlock tarafından yapılan açıda kalacak (Koridorlarda koşarken, ve etkileşim kurarken değişebilir)
+- 💡Oyun Başlangıcında 10-15 sn olmak üzere hikaye videosu @Reyhan Çakır tarafından yapılacak. 
+- 💡Oyun Başladığında ilk mekan olan giriş holünde tablolar halinde hikayenin devamı sergilenecek şekilde tasarım yapılacak.
+- 💡@Ahmet Yasin Burul 'in yaptığı 3D Ana Karakter Riglemesi gerçekleştirilip @Morlock ile denemeler yapılacak.
+- 💡@Ahmet Yasin Burul Yan Karakterler için 3D Modelleme tamamlanacak.
+- 💡@Reyhan Çakır UI için çalışmalar yapılacak. Giriş Ekranının arkasında 2D Görüntü hazırlanacak.
+- 💡@Emine Şen Mekan Tasarımlarına başlanacak. (En az 1 tanesi tamamlanacak.)
 
 🕯️GameJam şeklinde 2 gün süreklilik ile oyun tüm takım üyeleriyle birlikte tamamlanacak. (Pazar-Pazartesi)
 
