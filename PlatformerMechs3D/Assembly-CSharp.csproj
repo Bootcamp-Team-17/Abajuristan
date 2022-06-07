@@ -36,28 +36,28 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\TeachersRoomScript\LetsKitchenScript.cs" />
      <Compile Include="Assets\Scripts\BoredBehaviour.cs" />
      <Compile Include="Assets\Scripts\VideoSceneScripts\NextLevelLoader.cs" />
+     <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactionsssss.cs" />
      <Compile Include="Assets\Scripts\MovementController.cs" />
      <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactions.cs" />
-     <Compile Include="Assets\Scripts\PickupSystem.cs" />
-     <Compile Include="Assets\Scripts\PlayerInput.cs" />
-     <Compile Include="Assets\Scripts\ObstaclePush.cs" />
-     <Compile Include="Assets\Scripts\OpeningSceneScripts\NextSceneScript.cs" />
-     <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactions1.cs" />
-     <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactionss.cs" />
-     <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactionsss.cs" />
-     <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactionsssss.cs" />
-     <Compile Include="Assets\Scripts\KitchenSceneScripts\InteractionsCloseLeft.cs" />
-     <Compile Include="Assets\Scripts\KitchenSceneScripts\InteractionsRightCloset.cs" />
-     <Compile Include="Assets\Scripts\Puzzles\TabakScript.cs" />
-     <Compile Include="Assets\Scripts\Puzzles\ScoreHolder.cs" />
      <Compile Include="Assets\Scripts\Puzzles\CaydanlikScript.cs" />
      <Compile Include="Assets\Scripts\Puzzles\BardakScript.cs" />
-     <Compile Include="Assets\Scripts\EndGameScript.cs" />
-     <Compile Include="Assets\Scripts\TeachersRoomScript\LetsKitchenScript.cs" />
+     <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactionss.cs" />
+     <Compile Include="Assets\Scripts\KitchenSceneScripts\InteractionsRightCloset.cs" />
+     <Compile Include="Assets\Scripts\PickupSystem.cs" />
      <Compile Include="Assets\Scripts\CamFixer.cs" />
+     <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactionsss.cs" />
+     <Compile Include="Assets\Scripts\Puzzles\TabakScript.cs" />
+     <Compile Include="Assets\Scripts\PlayerInput.cs" />
+     <Compile Include="Assets\Scripts\Puzzles\ScoreHolder.cs" />
+     <Compile Include="Assets\Scripts\EndGameScript.cs" />
+     <Compile Include="Assets\Scripts\KitchenSceneScripts\InteractionsCloseLeft.cs" />
      <Compile Include="Assets\CanvasHolderScript.cs" />
+     <Compile Include="Assets\Scripts\KitchenSceneScripts\Interactions1.cs" />
+     <Compile Include="Assets\Scripts\ObstaclePush.cs" />
+     <Compile Include="Assets\Scripts\OpeningSceneScripts\NextSceneScript.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Fonts\OFL.txt" />

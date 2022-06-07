@@ -1,71 +1,69 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
-public class PickupScript : MonoBehaviour
+
+public class PickupSystem : MonoBehaviour
 {
-    PlayerInput playerInput;
-    [SerializeField] private LayerMask PickupMask;
-    [SerializeField] private Camera PlayerCam;
-    [SerializeField] private Transform PickupTarget;
-    [Space]
-    [SerializeField] private float PickupRange;
-    private Rigidbody CurrentObject;
-    bool _isPickupPressed;
-    
-    private void Awake() 
-    {
-        playerInput.CharacterControls.Pickup.started += onPickup;
-    }
-    void Start()
-    {
-        playerInput = new PlayerInput();
-    }
-    void Update()
-    {
-        if(_isPickupPressed)
-        {
-            if(CurrentObject)
-            {
-                CurrentObject.useGravity = true;
-                CurrentObject = null;
-                return;
-            }
+    public GameObject player;
+    public Transform targetTransform;
+    [SerializeField] Vector3 offset = new Vector3(1, 1, 1);
+    Rigidbody rb;
 
-            Ray CameraRay = PlayerCam.ViewportPointToRay(new Vector3(0.5f, 0.5f, 0f)); 
-            if (Physics.Raycast(CameraRay, out RaycastHit HitInfo, PickupRange, PickupMask))
+    public bool playerinRange;
+    public bool objectPickedUp;
+
+
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody>();
+    }
+
+    private void Update()
+    {
+       if (playerinRange)
+        {
+            if (Input.GetKeyDown(KeyCode.E))
             {
-                CurrentObject = HitInfo.rigidbody;
-                CurrentObject.useGravity = false;
+                objectPickedUp = true;
             }
+        }
+
+       if(Input.GetKeyDown(KeyCode.E) && transform.position == targetTransform.position)
+        {
+           objectPickedUp = false;
+        }
+
+    }
+
+    private void LateUpdate()
+    {
+        if (objectPickedUp)
+        {
+            transform.position = targetTransform.position;
+            transform.rotation = targetTransform.rotation;
+            rb.useGravity = false;
+        }
+        else if(!objectPickedUp)
+        {
+            transform.position = transform.position;
+            rb.useGravity = true;
         }
     }
 
-    void FixedUpdate()
+    private void OnTriggerEnter(Collider other)
     {
-        if(CurrentObject)
+        if(other.gameObject.tag == "Player")
         {
-            Vector3 DirectionToPoint = PickupTarget.position - CurrentObject.position;
-            float DistanceToPoint = DirectionToPoint.magnitude;
-
-            CurrentObject.velocity = DirectionToPoint * 12f * DistanceToPoint; 
+            playerinRange = true;
         }
     }
 
-    void onPickup(InputAction.CallbackContext context)
-    {   
-        _isPickupPressed = context.ReadValueAsButton();
-    }
-
-    private void OnEnable() 
+    private void OnTriggerExit(Collider other)
     {
-        playerInput.CharacterControls.Enable();    
+        if (other.gameObject.tag == "Player")
+        {
+            playerinRange = false;
+        }
     }
-
-    private void OnDisable() 
-    {
-        playerInput.CharacterControls.Disable();
-    }
-
 }
